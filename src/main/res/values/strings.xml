@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebRTCAndroid</string>
+    <string name="join_room">Join</string>
+    <string name="room_tips">输入房间号 </string>
+    <string name="server_tips">服务器地址 </string>
+    <string name="default_server">"http://192.168.1.100"</string>
+</resources>
